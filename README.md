@@ -19,3 +19,9 @@ mechanic. After a client makes data submission, it should check whether the clie
 taken any appointment from any mechanic on certain date or not. If not, then the client is
 allowed to take an appointment otherwise s/he will be notifying that he has already taken anappointment on that specific date. And also if the mechanic is occupied with maximum no. of
 appointment the system notifies the client otherwise it will approve the appointment.
+
+Demo:
+
+Admin panel-http://mma.motasimfoad.mucahost.com/391/a3/home.php 
+
+User panel- http://mma.motasimfoad.mucahost.com/391/a3/
